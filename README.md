@@ -1,73 +1,132 @@
-<h1 align="center">👋 Welcome</h1>
-<h3 align="center">Aspiring AI & Computer Science Student</h3>
+# 👋 Hello, World.
 
-<p align="center">
-  <i>Building foundations today for intelligent systems tomorrow.</i>
-</p>
+> Building intelligence. Engineering the future.
 
 ---
 
-## 🎯 Focus
+## 🧠 About This Space
 
-I am preparing for a future degree in **Artificial Intelligence**, with an interest in:
+This GitHub profile represents a focused journey into **Artificial Intelligence as an engineering discipline** — grounded in mathematics, computation, and real-world system design.
 
-- Machine Learning & Data-Driven Systems  
-- Automation & Intelligent Tools  
-- Software Engineering Fundamentals  
-- Ethical & Responsible AI  
+The work here reflects an academic and engineering mindset:
+- Strong theoretical foundations  
+- Engineering-oriented implementations  
+- Responsible and ethical system design  
+- Continuous learning in intelligent technologies  
 
-This space is used to document learning progress, experiments, and long-term projects.
-
----
-
-## 🧠 Areas of Exploration
-
-- Programming fundamentals  
-- Algorithmic thinking  
-- Backend logic & system design  
-- AI-ready mathematics & data concepts  
+This space documents long-term growth in **AI systems, research foundations, and applied intelligence engineering**.
 
 ---
 
-## 🛠️ Tools & Languages (Learning / Using)
+## 🔬 Core Interests
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
-
----
-
-## 📂 Repository Philosophy
-
-- 📌 Clean, readable code  
-- 🔁 Continuous improvement  
-- 📖 Learning documented through projects  
-- 🧩 Systems over scripts  
+- Artificial Intelligence Systems  
+- Machine Learning & Deep Learning  
+- Data Science & Analytics  
+- Intelligent Applications  
+- Algorithms & Optimization  
+- Software Engineering for AI  
 
 ---
 
-## 🌱 Long-Term Direction
+## 🛠 Tools & Languages
 
-> *Artificial Intelligence is not about replacing humans —  
-> it’s about extending human capability responsibly.*
+### Languages
+![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python)
+![C](https://img.shields.io/badge/C-333333?style=flat&logo=c)
+![C++](https://img.shields.io/badge/C++-333333?style=flat&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=java)
+![SQL](https://img.shields.io/badge/SQL-333333?style=flat&logo=postgresql)
+
+### AI & Data
+![TensorFlow](https://img.shields.io/badge/TensorFlow-333333?style=flat&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-333333?style=flat&logo=pytorch)
+![NumPy](https://img.shields.io/badge/NumPy-333333?style=flat&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-333333?style=flat&logo=pandas)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-333333?style=flat&logo=scikitlearn)
+
+### Engineering & Systems
+![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github)
+![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux)
+![REST API](https://img.shields.io/badge/REST_API-333333?style=flat)
 
 ---
 
-<p align="center">
-  <sub>Learning in public. Thinking long-term.</sub>
-</p>
+## 📚 Currently Exploring
 
-<!--
-**itsweiq/itsweiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Applied Machine Learning  
+- Deep Learning Architectures  
+- Data-driven Intelligence Systems  
+- Algorithm Design & Analysis  
+- Intelligent System Applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 Research Interests
+
+- Machine Learning Systems  
+- Explainable Artificial Intelligence (XAI)  
+- Intelligent Decision Systems  
+- Human-AI Interaction  
+- AI Ethics & Responsible AI  
+- Cognitive-Inspired Computing  
+
+---
+
+## 🎯 Academic & Engineering Focus
+
+This profile is structured to reflect readiness for:
+
+- **AI-focused university programmes**
+- **Research-driven learning environments**
+- **Engineering roles involving intelligent systems**
+- **Long-term specialization in Artificial Intelligence**
+
+Focus areas:
+- Mathematical reasoning  
+- System-level thinking  
+- Scalable AI design  
+- Clean and maintainable implementations  
+
+---
+
+## 📂 Portfolio Structure
+
+This GitHub space is treated as a **learning + engineering portfolio**:
+- Experiments  
+- Research-oriented projects  
+- AI implementations  
+- Engineering systems  
+- Long-term skill development  
+- Knowledge documentation  
+
+---
+
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=00000000)
+
+> Replace `YOUR_USERNAME` with your GitHub username.
+
+---
+
+## 🚀 Philosophy
+
+> Intelligence is not magic — it is engineered.
+
+Strong AI systems are built on:
+- Solid fundamentals  
+- Ethical responsibility  
+- Interpretability  
+- Reliability  
+- Continuous refinement  
+
+---
+
+## 🌱 Looking Forward
+
+The long-term goal is to develop **AI systems that are reliable, explainable, and impactful**, contributing to both academic research and real-world applications.
+
+Curiosity drives progress.
