@@ -105,10 +105,9 @@ This GitHub space is treated as a **learning + engineering portfolio**:
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=00000000)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsweiq&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsweiq&layout=compact&hide_border=true&bg_color=00000000)
 
-> Replace `YOUR_USERNAME` with your GitHub username.
 
 ---
 
