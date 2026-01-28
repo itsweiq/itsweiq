@@ -32,7 +32,7 @@ This space documents long-term growth in **AI systems, research foundations, and
 ## 🛠 Tools & Languages
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python)
+![](https://img.shields.io/badge/Python-333333?style=flat&logo=python)
 ![C](https://img.shields.io/badge/C-333333?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/C++-333333?style=flat&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=java)
