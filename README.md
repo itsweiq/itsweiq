@@ -39,7 +39,7 @@ This space documents long-term growth in **AI systems, research foundations, and
 ![SQL](https://img.shields.io/badge/SQL-333333?style=flat&logo=postgresql)
 
 ### AI & Data
-![TensorFlow](https://img.shields.io/badge/TensorFlow-333333?style=flat&logo=tensorflow)
+![Static Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-333333?style=flat&logo=pytorch)
 ![NumPy](https://img.shields.io/badge/NumPy-333333?style=flat&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-333333?style=flat&logo=pandas)
