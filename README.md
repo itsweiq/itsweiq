@@ -32,24 +32,24 @@ This space documents long-term growth in **AI systems, research foundations, and
 ## 🛠 Tools & Languages
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python)
-![C](https://img.shields.io/badge/C-333333?style=flat&logo=c)
-![C++](https://img.shields.io/badge/C++-333333?style=flat&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=java)
-![SQL](https://img.shields.io/badge/SQL-333333?style=flat&logo=postgresql)
+![Python](https://img.shields.io/badge/Python-ffde57?style=for-the-badge&logo=python&labelColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&labelColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-5599ff?style=for-the-badge&logo=c%2B%2B&logoColor=5599ff&labelColor=black)
+![HTML5](https://img.shields.io/badge/-html5-e34c26?style=for-the-badge&logo=html5&labelColor=black)
+![CSS3](https://img.shields.io/badge/-css-2965f1?style=for-the-badge&logo=css&logoColor=2965f1&labelColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=13aa52&labelColor=black)
 
 ### AI & Data
-![Static Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-333333?style=flat&logo=pytorch)
-![NumPy](https://img.shields.io/badge/NumPy-333333?style=flat&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-333333?style=flat&logo=pandas)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-333333?style=flat&logo=scikitlearn)
-
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&labelColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&labelColor=black)
+![NumPy](https://img.shields.io/badge/Numpy-4d77cf?style=for-the-badge&logo=numpy&logoColor=4d77cf&labelColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=150458&labelColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=29ABE2&labelColor=black)
 ### Engineering & Systems
-![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github)
-![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux)
-![REST API](https://img.shields.io/badge/REST_API-333333?style=flat)
+![Git](https://img.shields.io/badge/Git-F14E32?style=for-the-badge&logo=git&labelColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&labelColor=black)
+![Linux](https://img.shields.io/badge/Linux-F4BC00?style=for-the-badge&logo=linux&labelColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&labelColor=black)
 
 ---
 
