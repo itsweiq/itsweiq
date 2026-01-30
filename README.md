@@ -34,6 +34,7 @@ This space documents long-term growth in **AI systems, research foundations, and
 ### Languages
 ![Python](https://img.shields.io/badge/Python-ffde57?style=for-the-badge&logo=python&labelColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&labelColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&labelColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-5599ff?style=for-the-badge&logo=c%2B%2B&logoColor=5599ff&labelColor=black)
 ![HTML5](https://img.shields.io/badge/-html5-e34c26?style=for-the-badge&logo=html5&labelColor=black)
 ![CSS3](https://img.shields.io/badge/-css-2965f1?style=for-the-badge&logo=css&logoColor=2965f1&labelColor=black)
